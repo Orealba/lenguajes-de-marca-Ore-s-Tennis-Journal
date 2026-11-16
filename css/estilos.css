@@ -1,0 +1,11 @@
+body{
+    background-color: #ecdfd7;
+}
+
+.miNavbar{
+    background-color: rgb(169 188 46);
+
+}
+li:hover{
+    background-color: #ecdfd7;;
+}
